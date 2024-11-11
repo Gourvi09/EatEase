@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EatEase/static/css/main.176c3a12.css",
+    "main.js": "/EatEase/static/js/main.5813b7c0.js",
+    "index.html": "/EatEase/index.html",
+    "main.176c3a12.css.map": "/EatEase/static/css/main.176c3a12.css.map",
+    "main.5813b7c0.js.map": "/EatEase/static/js/main.5813b7c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176c3a12.css",
+    "static/js/main.5813b7c0.js"
+  ]
+}
